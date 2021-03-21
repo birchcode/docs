@@ -19,8 +19,9 @@ Now let’s create a new Assets field for the about page image:
 1. Navigate to “Settings” and choose “Fields”.
 2. Create a “Singles Fields” field group, then choose “+ New field”.
 3. Create a field called “About Image”, selecting a “Assets” from the “Field Type” dropdown menu.
-4. Enable “Restrict uploads to a single folder?” and select only “General” under “Sources”. Enable “Restrict allowed file types?” and select “Image”.
-5. Save the field.
+4. Enable “Restrict uploads to a single folder?”
+5. Under “Asset Location” select only “General”. Enable “Restrict allowed file types?” and select “Image”.
+7. Save the field.
 
 Now we can create the about page single:
 
